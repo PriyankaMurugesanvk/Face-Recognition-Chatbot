@@ -35,11 +35,3 @@ This project is a conversational AI application that integrates image recognitio
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Acknowledgements
-
-- [Hugging Face Transformers](https://github.com/huggingface/transformers)
-- [PyTorch](https://pytorch.org/)
-- [Pillow](https://python-pillow.org/)
-- [Tkinter](https://docs.python.org/3/library/tkinter.html)
-- [Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct)
